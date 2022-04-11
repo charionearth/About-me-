@@ -1,0 +1,22 @@
+<h1>Charity Dikson's Profile</h1>
+<h2>About me</h2>
+<img src="https://news.climate.columbia.edu/wp-content/uploads/2021/09/Charity.png"/>
+<p> <a href="https://www.merriam-webster.com/dictionary/charity"></a> Charity is a full time Journalism and Design student at The New School. A fun fact about her is that she is a triplet!</p>
+<p class= turtle>(heres a picture of me with a turtle)
+<h2>Heres a film I just watched</h2>
+<img src="https://upload.wikimedia.org/wikipedia/en/b/be/If_Beale_Street_Could_Talk_film.png"/>
+<style>
+h1{color:black;
+  font-size:60px;
+  text-align:center;
+  font-family:impact;}
+  h2{color:green;
+  font-size:25px;
+  font-family:georgia;
+  text-align:center;}
+  p.intro{text-align:center;
+  font-size:20px;
+  font-family:georgia;}
+  p.turtle{font-family:georgia;
+  font-size:10px;}
+  p.beale{font-family:georgia;}
